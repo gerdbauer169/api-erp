@@ -1,5 +1,6 @@
 # Release 4.0.2
 Release to fit specification progress and new FHIR profiling corrections. 
+
 Changes 
 - update on all examples 
 - spelling correction 
